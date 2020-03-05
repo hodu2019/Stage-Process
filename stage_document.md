@@ -29,8 +29,8 @@
 * L2C - Sai đối tượng (độ tuổi, chưa có con...): Chứa các lead từ L1A sau khi tư vấn mà KH từ chối tư vấn hoặc không có nhu cầu vì không đúng độ tuổi
 * L2D - L3 hủy: Chứa các lead từ L3ABCD sau khi tư vấn nhiều lần nhưng KH vẫn không đồng ý trải nghiệm/đăng ký
 * L2E - Hủy lịch trải nghiệm và hết yêu cầu: Chứa các lead từ L4A, sau khi tư vấn và hẹn trải nghiệm nhiều lần nhưng khách hàng từ chối và không còn nhu cầu nữa
-* L2F - Fail trải nghiệm/Fail test: Chứa các lead từ L4B: dù đã trải nghiệm rồi nhưng không còn nhu cầu nữa
-* L2G - L5 hủy: Chứa các lead từ L5A: dù đã confirm rồi nhưng vẫn hủy đơn hàng, không đồng ý học nữa
+* L2F - Fail trải nghiệm/Fail test: Chứa các lead từ L4B dù đã trải nghiệm rồi nhưng không còn nhu cầu nữa
+* L2G - L5 hủy: Chứa các lead từ L5A dù đã confirm rồi nhưng vẫn hủy đơn hàng, không đồng ý học nữa
 * L2X - Sai đối tượng (chưa rõ nguyên nhân)
 </details>
 

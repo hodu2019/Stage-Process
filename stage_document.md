@@ -68,9 +68,9 @@
 |---	|---	|---	|
 |L0A - Trùng lead   	|   	|   	|
 |L0B - Sai số điện thoại   	|   	|   	|
-|L1A - Chưa xử lý   	| Được chuyển sang hầu hết các status khác | Lead chỉ được ở L1A trong 2 ngày kể từ ngày tạo (không tính nguồn database)  	|
-|L1B - Bận, gọi lại sau  	|Được chuyển sang hầu hết các status khác   	|Lead chỉ được ở L1B trong 3 ngày và sau 3 cuộc gọi   	|
-|L1C - Chưa nghe máy   	|Được chuyển sang hầu hết các status khác   	|Lead chỉ được ở L1C trong 3 ngày và sau 3 cuộc gọi   	|
+|L1A - Chưa xử lý   	| Được chuyển sang hầu hết các status khác | Lead chỉ được ở L1A trong **2 ngày** kể từ ngày tạo (không tính nguồn database)  	|
+|L1B - Bận, gọi lại sau  	|Được chuyển sang hầu hết các status khác   	|Lead chỉ được ở L1B trong **3 ngày** và sau **3 cuộc gọi**   	|
+|L1C - Chưa nghe máy   	|Được chuyển sang hầu hết các status khác   	|Lead chỉ được ở L1C trong **3 ngày** và sau **3 cuộc gọi**   	|
 |L2A - Không có nhu cầu   	|Không được chuyển về L1   	|   	|
 |L2B - Sai đối tượng (ngoài khu vực)   	|Không được chuyển về L1   	|   	|
 |L2C - Sai đối tượng (độ tuổi, chưa có con...) |Không được chuyển về L1   	|   	|

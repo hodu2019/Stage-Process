@@ -3,7 +3,7 @@
 
 ### Thông tin về các Stage và Status
 <details open>
-<summary>L0: Junc Lead (Lead trùng, sai số điện thoại không gọi được).</summary>
+<summary> <b>L0: Junc Lead </b> (Lead trùng, sai số điện thoại không gọi được)</summary>
 
 
 * **L0A - Trùng lead**: Dùng để chứa các lead trùng, lead test
@@ -12,7 +12,7 @@
 
 
 <details open>
-<summary>L1: Lead (Lead chưa xử lý).</summary>
+<summary><b> L1: Lead </b> (Lead chưa xử lý) </summary>
 
 * **L1A - Chưa xử lý**: Chứa các lead chưa xử lý từ website, leadform, landing page, Database và nguồn hotline v.vv
     
@@ -22,7 +22,7 @@
 
 
 <details open>
-<summary> L2: Cold Lead (Contact Lạnh) </summary>
+<summary> <b> L2: Cold Lead </b> (Contact Lạnh) </summary>
 
 * **L2A - Không có nhu cầu**: Chứa các lead từ L1A sau khi liên hệ mà KH bảo là không có nhu cầu
 * **L2B - Sai đối tượng (ngoài khu vực)**: Chứa các lead từ L1A sau khi liên hệ mà KH từ chối tư vấn hoặc không có nhu cầu vì ngoài khu vực
@@ -36,7 +36,7 @@
 
 
 <details open>
-<summary> L3: Warm Lead (Lead có nhu cầu cần tư vấn).</summary>
+<summary><b> L3: Warm Lead </b> (Lead có nhu cầu cần tư vấn) </summary>
 
 * **L3A - Có quan tâm nhưng đang bận**
 * **L3B - Đã tư vấn, KH quan tâm ít**
@@ -46,7 +46,7 @@
 
 
 <details open>
-<summary>L4: Hot lead (Lead đồng ý học trải nghiệm).</summary>
+<summary> <b>L4: Hot lead  </b> (Lead đồng ý học trải nghiệm)</summary>
 
 * **L4A - Đồng ý học trải nghiệm/ Test**: Chứa các lead đã có lịch hẹn trải nghiệm
 * **L4B - Đã học trải nghiệm/ Tested**: Chứa các lead đã tham gia trải nghiệm / làm test
@@ -54,7 +54,7 @@
 </details>
 
 <details open>
-<summary>L5: Order (Lead có order).</summary>
+<summary> <b> L5: Order </b> (Lead có order) </summary>
 
 * **L5A - New order, chờ thanh toán**: Chứa các lead mà khách đã xác nhận sẽ đi học
 * **L5B - Order - Đã thanh toán một phần**: Chứa các lead mà khách đã đóng 1% - 99% học phí

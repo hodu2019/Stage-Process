@@ -6,8 +6,8 @@
 <summary> <b>L0: Junc Lead </b> (Lead trùng, sai số điện thoại không gọi được)</summary>
 
 
-* **L0A - Trùng lead**: Dùng để chứa các lead trùng, lead test
-* **L0B - Sai số điện thoại**: Dùng để chứa các lead khi gọi bị thuê bao, thiếu số, dư số, lead cũ không có số điện thoại
+* **L0A - Trùng lead**: Dùng để chứa các lead khi gọi bị thuê bao, thiếu số, dư số, lead cũ không có số điện thoại
+* **L0B - Sai số điện thoại**: Dùng để chứa các lead trùng, lead test 
 </details>
 
 
